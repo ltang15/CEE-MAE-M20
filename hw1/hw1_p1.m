@@ -9,8 +9,8 @@
 % Method: Using if-else to check validity and Matlab functions to get input
 % and display strings.
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc; clear all; close all;
 
