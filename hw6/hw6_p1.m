@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw6_205542275_p1
+% Name of the script: hw6_p1
 % Numerical Integration with Monte Carlo
 
 % Description: - To approximate the numerical value of an integral and plot
@@ -9,8 +9,8 @@
 % Output: The plot of results and the number of samples under the curve
 % Method: Monte Carlo method
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc; clear all; close all;
 
