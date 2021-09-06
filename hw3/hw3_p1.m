@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw3_205542275_p1
+% Name of the script: hw3_p1
 % Golden ratio
 
 % Description: this script to calculate golden ratio using two methods
@@ -11,8 +11,8 @@
 % Method: Talor series for calculating 2cos(36)
 %         The ratio between two consecutive in the Fibonacci series.
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc; clear all; close all;
 
