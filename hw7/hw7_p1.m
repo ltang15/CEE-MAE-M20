@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw7_205542275_p1
+% Name of the script: hw7_p1
 % Euler Bernoulli beam bending
 
 % Description: - To plot the displacement of a 
@@ -12,8 +12,8 @@
 %        - Elapse time with different number of discretization points
 % Method: 2D array,  
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
