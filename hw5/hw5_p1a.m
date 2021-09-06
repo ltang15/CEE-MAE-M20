@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw5_205542275_p1a
+% Name of the script: hw5_p1a
 % Finding roots of nonlinear equation
 
 % Description: Find roots of two functions 1+ 0.5sin(x) -x =0 and
@@ -10,8 +10,8 @@
 % solution
 % Method: Bisection method
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
