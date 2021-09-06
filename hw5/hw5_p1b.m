@@ -1,7 +1,7 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw5_205542275_p1b
+% Name of the script: hw5_p1b
 % Finding roots of nonlinear equation
 
 % Description: Find roots of two functions 1+ 0.5sin(x) -x =0 and
@@ -10,8 +10,8 @@
 % Output: xStar and xRoot, the graph
 % Method: Fixed point iteration method
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
