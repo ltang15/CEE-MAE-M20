@@ -12,8 +12,8 @@
 %         - Time elapse when using RK4 and ode45 
 % Method: Runge Kutta 4, spatial, SIR model.  
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
