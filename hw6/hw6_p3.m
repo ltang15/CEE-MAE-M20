@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw6_205542275_p3
+% Name of the script: hw6_p3
 % Birthday Paradox
 
 % Description: Finding how many people need to be in the room such that 50%
@@ -9,8 +9,8 @@
 % Input:  None
 % Output: Number of people needed
 % Method: Monte Carlo
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc; clear all; close all;
 
