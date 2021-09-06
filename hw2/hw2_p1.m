@@ -1,11 +1,11 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw2_205542275_p1
+% Name of the script: hw2_p1
 % Assignment submission
 
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc; clear all; close all;
 
