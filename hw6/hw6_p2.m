@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw6_205542275_p2
+% Name of the script: hw6_p2
 % Implementing Customized Probability Distributions
 
 % Description: - To creat a histogram of the customized Probability
@@ -9,8 +9,8 @@
 % Output: The histogram of the results
 % Method: Monte Carlo method
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
