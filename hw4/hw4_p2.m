@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw4_205542275_p2
+% Name of the script: hw4_p2
 % The RLC circuit problem: semi-implicit Euler
 
 % Description: this script simulate the current i(t) in the RLC circuit
@@ -10,8 +10,8 @@
 % Output: i(t) plot and the damping coefficient for each system
 % Method: Semi-implicit Euler
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
