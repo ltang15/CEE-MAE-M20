@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: project_205542275_p1
+% Name of the script: project_p1
 % Principle component analysis (PCA)
 
 % Description: - Analyze COVID-19 data from 27 different countries
@@ -12,8 +12,8 @@
 
 % Method: PCA, biplot function  
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
