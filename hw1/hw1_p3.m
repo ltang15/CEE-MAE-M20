@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw1_205542275_p3
+% Name of the script: hw1_p3
 % Law of sines and cosines
 
 % Description: this script calculates the angles of given triangle using
@@ -8,8 +8,8 @@
 % Output: three angles and the sum of three angles.
 % Method: Using the Law of Sines and Cosines
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
