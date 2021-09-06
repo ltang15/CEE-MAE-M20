@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw1_205542275_p2
+% Name of the script: hw1_p2
 % Sterling's approximation
 
 % Description: this script calculates exact and approximation of factorials
@@ -10,8 +10,8 @@
 % error of the approximation.
 % Method: IUsing the Sterling's approximation formula
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
