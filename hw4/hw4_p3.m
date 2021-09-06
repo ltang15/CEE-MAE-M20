@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw4_205542275_p3
+% Name of the script: hw4_p3
 % The RLC circuit problem: Implicit Euler
 
 % Description: this script simulate the current i(t) in the RLC circuit
@@ -10,8 +10,8 @@
 % Output: i(t) plot
 % Method: implicit Euler
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
