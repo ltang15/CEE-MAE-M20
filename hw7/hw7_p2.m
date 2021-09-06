@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw7_205542275_p2
+% Name of the script: hw7_p2
 % Langton's ant
 
 % Description: - To simulate Langton's ant model and display the portion of
@@ -11,7 +11,7 @@
 % Method: 2D array, imagesc. 
 
 %Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
