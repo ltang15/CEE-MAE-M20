@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw4_205542275_p1
+% Name of the script: hw4_p1
 % LC circuit problem: explicit Euler
 
 % Description: this script simulate the current i(t) in the LC circuit.
@@ -9,8 +9,8 @@
 % Output: i(t) plot and the frequency
 % Method: Explicit Euler
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
