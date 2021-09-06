@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw2_205542275_p3
+% Name of the script: hw2_p3
 % Type of number
 
 % Description: this script determine what type a 6 digit number is
@@ -9,8 +9,8 @@
 % neither
 % Method: Using if-else, mod() and floor () functions
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc; clear all; close all;
 
