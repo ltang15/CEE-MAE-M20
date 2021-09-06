@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw1_205542275_p4
+% Name of the script: hw1_p4
 % Oblate Spheroid
 
 % Description: this script calculates the surface area of an oblate spheroid.
@@ -8,8 +8,8 @@
 % Method: It uses arithmetic operation and built-in function (sin, cos,
 % log ...) to perform the formulas.
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
