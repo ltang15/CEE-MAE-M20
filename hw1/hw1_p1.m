@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw1_205542275_p1
+% Name of the script: hw1_p1
 % String manipulation
 
 % Description: this script gets the input and then print out a greeting.
