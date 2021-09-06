@@ -1,7 +1,7 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Name of the script: hw2_205542275_p2
+% Name of the script: hw2_p2
 % Neighebor Identification
 
 % Description: this script returns neighbors of any cell in the matrix
@@ -10,8 +10,8 @@
 % Output: Neighbors number
 % Method: Using if-else, mod() and floor () functions, and switch case.
 
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc; clear all; close all;
