@@ -1,4 +1,4 @@
-% Name of the script: hw3_205542275_p3
+% Name of the script: hw3_p3
 % SIR Simulation of the Spread of Disease
 
 % Description: this script approximates differential  equations and plot
@@ -11,8 +11,8 @@
 % infected students
 
 % Method: forward Euler method
-%Name: Linh Tang(linhtang92@g.ucla.edu)
-%UID: 205542275
+%Name: Linh Tang
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc; clear all; close all;
 
